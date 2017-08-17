@@ -1,2 +1,2 @@
-# U17-downloader
+# U17_Downloader
 Download comics from U17
